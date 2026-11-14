@@ -1,0 +1,7 @@
+interface:
+  display_name: "Research Weekly Report"
+  short_description: "Build evidence-backed research weekly reports"
+  default_prompt: "Use $research-weekly-report to audit a specified time window and draft a concise Markdown research weekly report."
+
+policy:
+  allow_implicit_invocation: true
